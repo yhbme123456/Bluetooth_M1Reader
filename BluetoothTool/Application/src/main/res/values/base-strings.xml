@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright 2013 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">蓝牙助手</string>
+    <string name="intro_message">
+
+            此应用使用蓝牙SSP协议.包括功能:\n
+            (1)扫描蓝牙设备\n
+            (2)枚举已经匹配的蓝牙设备\n
+            (3)连接蓝牙设备\n
+            (4)使用蓝牙传输数据\n
+
+    </string>
+</resources>
